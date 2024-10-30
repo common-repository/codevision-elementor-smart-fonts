@@ -1,0 +1,77 @@
+{
+    "key": "group_5bd1dbb453482",
+    "title": "ESF License",
+    "fields": [
+        {
+            "key": "field_5bd1dbb456af5",
+            "label": "Notice",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Please enter your personal license key you received by email. If you do not own a license key, or your 30 day trial has been expired you can order your personal license key <a href={license_url} target={license_target}>here<\/a>. The single Site License is only <strong>{single_price}<\/strong>. If you plan to use the plugin on more than one site, please consider buying our <strong>agency<\/strong> license fore unlimited site usage for only <strong>{agency_price}<\/strong>. {additional_info}",
+            "new_lines": "wpautop",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5bd1dbb456bee",
+            "label": "License Key",
+            "name": "esf_license",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5bd1dbb456d02",
+            "label": "License Information",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "new_lines": "wpautop",
+            "esc_html": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-esf-license"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1540548766
+}

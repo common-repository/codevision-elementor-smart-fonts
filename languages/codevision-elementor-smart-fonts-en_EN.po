@@ -1,0 +1,161 @@
+# Copyright (C) 2018 Elementor Smart Fonts
+# This file is distributed under the same license as the Elementor Smart Fonts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Smart Fonts\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: codevision-elementor-smart-fonts.php:37
+msgid "Smart Fonts for Elementor"
+msgstr ""
+
+#: codevision-elementor-smart-fonts.php:38
+msgid "https://www.codevision.io/elementor-smart-fonts/"
+msgstr ""
+
+#: codevision-elementor-smart-fonts.php:39
+msgid ""
+"Adding your beloved TrueType Fonts to your website was never easier before. "
+"Comes also with full Elementor Styling Support!"
+msgstr ""
+
+#: admin/class-codevision-elementor-smart-fonts-admin.php:74,
+#: admin/class-codevision-elementor-smart-fonts-admin.php:75
+msgid "Smart Fonts"
+msgstr ""
+
+#: admin/class-codevision-elementor-smart-fonts-admin.php:83,
+#: admin/class-codevision-elementor-smart-fonts-admin.php:84
+msgid "Settings"
+msgstr ""
+
+#: admin/class-codevision-elementor-smart-fonts-admin.php:91,
+#: admin/class-codevision-elementor-smart-fonts-admin.php:92
+msgid "License"
+msgstr ""
+
+#: admin/class-codevision-elementor-smart-fonts-admin.php:341
+msgid "Remove Font"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:51
+msgid ""
+"With both types your receive six month of personal support and 12 month free "
+"updates."
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:65
+msgid "Use Own TrueType Font (TTF)"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:66
+msgid "Installed Fonts"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:67
+msgid ""
+"Here you can choose to upload a ttf file you want to use as webfont. We will "
+"generate the stylesheet for you. Below this field you will then find the "
+"corresponding css-class you have use to display your text in the specified "
+"font. The Font will also appear within the elementor font selection &laquo;"
+"Smart Fonts&raquo;.<br/>Attention: Always save the form after adding a new "
+"Font. You can add as many fonts as you please, but only one at a time. After "
+"saving the form the uploaded font will be converted and then removed from "
+"the wordpress media folder."
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:68
+msgid "Yes"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:69
+msgid "No"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:75
+msgid "Notice"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:76
+msgid "License Key"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:77
+msgid "License Information"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:78
+msgid ""
+"Please enter your personal license key you received by email. If you do not "
+"own a license key, or your 30 day trial has been expired you can order your "
+"personal license key <a href={license_url} target={license_target}>here</a>. "
+"The single Site License is only <strong>{single_price}</strong>. If you plan "
+"to use the plugin on more than one site, please consider buying our "
+"<strong>agency</strong> license fore unlimited site usage for only "
+"<strong>{agency_price}</strong>. {additional_info}"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:80
+msgid ""
+"Could not verify the License Key. Please buy a License Key <a href=%s>here</"
+"a>. As long as no valid License Key is found, the Plugin will not work "
+"correctly."
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:81
+msgid ""
+"You are using Smart Fonts for Elementor without a valid License Key. You "
+"have <strong>%%d</strong> days left for your trial. Please consider buying "
+"<a target=\"_blank\" href=%s>here</a>."
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:82
+msgid ""
+"You are using Smart Fonts for Elementor without a valid License Key. You "
+"have only <strong>one</strong> day left for your trial. Please consider "
+"buying <a target=\"_blank\" href=%s>here</a>."
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:84
+msgid "You have a valid License Key, thank you for your support"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:85
+msgid "Your Product"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:86
+msgid "Last Payment"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:87
+msgid "Next Payment"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:88
+msgid "Paid until"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:89
+msgid "Trial Start"
+msgstr ""
+
+#: includes/class-codevision-elementor-smart-fonts-i18n.php:90
+msgid "Trial End"
+msgstr ""

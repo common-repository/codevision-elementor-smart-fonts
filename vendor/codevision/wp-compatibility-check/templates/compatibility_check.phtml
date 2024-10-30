@@ -1,0 +1,14 @@
+<div class="notice-info notice is-dismissible codevision-compatibility-check">
+    <h3><?php echo __( $this->getTitle(), $this->env->getSlug()) ?></h3>
+    <ul class="compatibility-checks">
+        <?php foreach ( $this->checks as $check ) : ?>
+            <li class="simple-check state-unresolved" data-hash="<?php echo $check->getHash() ?>">
+                <?php echo __( $check->getTitle(), $this->env->getSlug() ) ?>
+                &hellip;
+                <span class="dashicons dashicons-info wp-ui-text-highlight"><p style="display: inline-block"></p></span>
+                <span class="error-message"></span>
+            </li>
+        <?php endforeach; ?>
+    </ul>
+    <p class="final-message hidden"></p>
+</div>

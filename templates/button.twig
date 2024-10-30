@@ -1,0 +1,6 @@
+<a href="#"
+   class="button button-primary {{ class }}"
+   {% for idx, val in data %}
+   data-{{ idx }}="{{ val }}"
+   {% endfor %}
+>{{ title }}</a>

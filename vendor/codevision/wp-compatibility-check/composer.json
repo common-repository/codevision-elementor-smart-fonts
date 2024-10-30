@@ -1,0 +1,32 @@
+{
+  "name": "codevision/wp-compatibility-check",
+  "description": "Wordpress Plugin Compatibility Check",
+  "type": "plugin",
+  "authors": [
+    {
+      "name": "sebastian",
+      "email": "sr@codevision.io"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require-dev": {
+    "symfony/var-dumper": "^4.1"
+  },
+  "require": {
+    "php" : ">=5.6",
+    "monolog/monolog": "^1.22",
+    "nicmart/string-template": "^0.1.1"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:nextgen2rism/wp-compatibility-check.git"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codevision\\": "src/"
+    }
+  }
+}
